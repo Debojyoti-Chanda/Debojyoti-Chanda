@@ -14,8 +14,8 @@ Here are some of my skills:
 ## Let's connect!
 
 If you'd like to chat or collaborate, feel free to send me a message. You can also find me on 
-[![Linkedin](https://img.icons8.com/color/48/null/linkedin.png)](https://www.linkedin.com/in/debojyoti-c-8ab504220/) and 
-[![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/debojyoti_100)
+[![Linkedin](https://img.icons8.com/color/28/null/linkedin.png)](https://www.linkedin.com/in/debojyoti-c-8ab504220/) and 
+[![Twitter](https://img.icons8.com/color/28/null/twitter--v1.png)](https://twitter.com/debojyoti_100)
 
 
 
