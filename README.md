@@ -9,7 +9,7 @@ Here are some of my skills:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://icons8.com/icon/hsPbhkOH4FMe/node-js)
+![NodeJS](https://img.shields.io/badge/NodeJS-5A9F31?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
 **Debojyoti-Chanda/Debojyoti-Chanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
