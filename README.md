@@ -11,6 +11,12 @@ Here are some of my skills:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-5A9F31?style=for-the-badge&logo=css3&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-DADDD9?style=for-the-badge&logo=css3&logoColor=black)
+## Let's connect!
+
+If you'd like to chat or collaborate, feel free to send me a message. You can also find me on [LinkedIn](https://www.linkedin.com/in/debojyoti-c-8ab504220/) and [Twitter](https://twitter.com/debojyoti_100)
+
+
+
 
 <!--
 **Debojyoti-Chanda/Debojyoti-Chanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
