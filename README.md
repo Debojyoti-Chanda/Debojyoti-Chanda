@@ -13,7 +13,9 @@ Here are some of my skills:
 ![Express](https://img.shields.io/badge/Express-DADDD9?style=for-the-badge&logo=css3&logoColor=black)
 ## Let's connect!
 
-If you'd like to chat or collaborate, feel free to send me a message. You can also find me on [LinkedIn](https://www.linkedin.com/in/debojyoti-c-8ab504220/) and [Twitter](https://twitter.com/debojyoti_100)
+If you'd like to chat or collaborate, feel free to send me a message. You can also find me on 
+[![Linkedin](https://img.icons8.com/color/48/null/linkedin.png)](https://www.linkedin.com/in/debojyoti-c-8ab504220/) and 
+[Twitter](https://twitter.com/debojyoti_100)
 
 
 
