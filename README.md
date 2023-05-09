@@ -1,6 +1,6 @@
-### Hi there 👋 
-# Hi, I'm Debojyoti Chanda!
-I'm a software Developer with a passion for building web applications. I specialize in front-end development, proficient in JavaScript, React, Redux. Currently learning backend with NodeJS, Express and MongoDB
+
+# Hi, I'm Debojyoti Chanda 👋 !
+I'm a software Developer , 2nd Year Student with a passion for building web applications. I specialize in front-end development, proficient in JavaScript, React, Redux. Currently learning backend with NodeJS, Express and MongoDB
 
 ## Skills
 Here are some of my skills:
