@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debojyoti Chanda</h1><a href="https://zesty-heliotrope-a373fa.netlify.app/" target="blank">🔗 Portfolio Website</a>
-<h3 align="center">A passionate Full Stack Developer from India. Did some projects in MERN and DSA in Java. Also did so Data Analytics Projects with Python.</h3>
+<h3 align="center">A passionate Full Stack Developer from India. Did some projects in MERN and DSA in Java. Also did some Data Analytics Projects with Python.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
