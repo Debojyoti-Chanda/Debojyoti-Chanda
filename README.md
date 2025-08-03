@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debojyoti Chanda</h1><a href="https://zesty-heliotrope-a373fa.netlify.app/" target="blank">🔗 Portfolio Website</a>
-<h3 align="center"> Software Developer from India. Did some projects in MERN out of self interest and some interesting Data Analytics Projects with Python as part of my curriculum. Currently looking for internship.</h3>
+<h1 align="center">Hi 👋, I'm Debojyoti Chanda</h1><a href="https://gravatar.com/lighttranquilc85044155f" target="blank">🔗 Portfolio Website</a>
+<h3 align="center">I'm a software developer from India, fueled by chai and the thrill of a successful deployment! 🇮🇳 My journey started with a deep dive into the MERN stack and some pretty cool Data Analytics projects with Python. Now, I'm taking on a new adventure: learning backend development with Spring Boot! Wish me luck (and strong coffee) as I dive into the backend abyss! ☕🚀 </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
