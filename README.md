@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/debojyoti_100" target="blank"><img src="https://img.shields.io/twitter/follow/debojyoti_100?logo=twitter&style=for-the-badge" alt="debojyoti_100" /></a> </p>
 
-- 🌱 I’m currently learning **Backend NodeJS , Express , MongoDb**
+- 🌱 I’m currently learning **Spring-boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
