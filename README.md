@@ -106,7 +106,7 @@ EDA on real banking datasets + Logistic Regression & Random Forest models achiev
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debojyoti-chanda&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=debojyoti-chanda&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=debojyoti-chanda&theme=light&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=debojyoti-chanda&show_icons=true&locale=en&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=debojyoti-chanda&show_icons=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=debojyoti-chanda)
 
