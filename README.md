@@ -7,21 +7,12 @@ Backend Software Engineer from India 🇮🇳 <br>
 Fueled by chai ☕ and the thrill of successful deployments 🚀
 </h3>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-</div>
-
----
-
 ### 🚀 About Me
 
 - 🏦 Currently working as **Associate Engineer @ BNP Paribas**, Chennai — building ML-powered Spring Boot microservices for predictive system reliability
 - ☁️ Experienced with **AWS (EC2, S3, ECS)**, **Docker**, **Kafka**, and **gRPC/Protobuf**
 - 🔧 Strong in **Java, Spring Boot, Microservices**, and production-grade **RESTful APIs**
 - 📊 Also worked on **Data Analytics & ML projects** using Python and Scikit-learn
-- 🎓 B.Tech in CSE from **SRM University AP** — CGPA: 8.81/10
 - ☕ Powered by coffee, curiosity, and late-night debugging
 
 ---
