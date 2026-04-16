@@ -2,12 +2,13 @@
 <p align="center">
   <a href="https://gravatar.com/lighttranquilc85044155f" target="_blank">🔗 Portfolio Website</a>
 </p>
+
 <h3 align="center">
 Writing backend systems in Java ☕ | Making distributed things work | Currently @ BNP Paribas 🏦
 </h3>
 
 ### 🚀 About Me
-
+![Banner](banner.png)
 - 🏦 Currently working as **Associate Engineer @ BNP Paribas**, Chennai — building ML-powered Spring Boot microservices for predictive system reliability
 - ☁️ Experienced with **AWS (EC2, S3, ECS)**, **Docker**, **Kafka**, and **gRPC/Protobuf**
 - 🔧 Strong in **Java, Spring Boot, Microservices**, and production-grade **RESTful APIs**
