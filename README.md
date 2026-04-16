@@ -3,8 +3,7 @@
   <a href="https://gravatar.com/lighttranquilc85044155f" target="_blank">🔗 Portfolio Website</a>
 </p>
 <h3 align="center">
-Backend Software Engineer from India 🇮🇳 <br>
-Fueled by chai ☕ and the thrill of successful deployments 🚀
+Writing backend systems in Java ☕ | Making distributed things work | Currently @ BNP Paribas 🏦
 </h3>
 
 ### 🚀 About Me
